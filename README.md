@@ -17,3 +17,8 @@ This is a monorepo with an MVP of an example of E-Commerce.
 - Next.JS
 - MySQL
 - Rest
+
+
+### Running details are inside each project
+
+After running all projects the website will be available on http://localhost:3001/products
